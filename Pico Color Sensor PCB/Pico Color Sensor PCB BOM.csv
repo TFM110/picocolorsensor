@@ -1,0 +1,8 @@
+Component Count:,11,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+"Pico1, ",1,Pico,Pico,MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH,Raspberry Pi Pico,https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico
+"DuPont_I2C_1, DuPont_I2C_2, ",2,Conn_01x04_Male,Conn_01x04_Male,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal,"Generic connector, single row, 01x04",https://www.digikey.com/en/products/detail/adam-tech/PH1RA-04-UA/9830430
+"JST_I2C_1, JST_I2C_2, ",2,Conn_01x04_Male,Conn_01x04_Male,Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,"Generic connector, single row, 01x04",https://www.digikey.com/en/products/detail/jst-sales-america-inc/S4B-PH-K-S-LF-SN/926628
+"MXP1, ",1,Conn_02x17_Odd_Even,Conn_02x17_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x17_P2.54mm_Vertical,"Generic connector, double row, 02x17, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)",https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092
+"D1, ",1,D,D,Diode_THT:D_DO-15_P10.16mm_Horizontal,Diode,https://www.digikey.com/en/products/detail/littelfuse-inc/SA5-0A/407714
+"R1, R2, R3, R4, ",4,R,R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Resistor,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428

@@ -1,3 +1,5 @@
+.gitignore
 pico-go.json
 .vscode/
 build/
+Pico Color Sensor PCB/Pico Color Sensor PCB-backups
