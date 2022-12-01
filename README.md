@@ -8,17 +8,11 @@ You can follow the raspberry pi instructions to build the executable in the pico
 
 ## Hardware connections
 
-By default, the code will connect to 2 color sensors. For both sensors, Power is pin 36 and the easiest ground near that is pin 38.
+By default, the code will connect to 2 color sensors. 
 
-Connect the first sensor's SDA to pin 6, and SCL to pin 7.
+Please solder all the necessary components onto the PCB, files are provided in the `Pico Color Sensor PCB` folder to print/order your own PCB as well as the Bill of Materials(BOM) needed for the PCB.
 
-Connect the 2nd sensor's SDA to pin 9, and SCL to pin 10.
-
-The roboRIO can provide Ground, 5v and the communication signal to the device.
-
-* 5v on the roboRIO is MXP pin 1 (Top right pin), and connects to pin 39 of the Pi Pico.
-* Gnd on the roboRIO is pin 8 (bottom row 4th in from the right) and connects to either Pin 3 or Pin 38 of the Pi Pico.
-* UART Rx on the roboRIO is pin 10 (bottom row 5th in from the right) and connects to pin 1 of the Pi Pico.
+You may solder both the DuPont and/or the JST connector but you may only use one on both sides.
 
 ## WPILib Setup
 
