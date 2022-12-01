@@ -164,17 +164,17 @@ int main()
 
     // Init I2c 0
     i2c_init(i2c0, 400000);
+    gpio_set_function(20, GPIO_FUNC_I2C);
+    gpio_set_function(21, GPIO_FUNC_I2C);
+    gpio_pull_up(20);
+    gpio_pull_up(21);
+
+    // Init I2c 1
+    i2c_init(i2c1, 400000);
     gpio_set_function(26, GPIO_FUNC_I2C);
     gpio_set_function(27, GPIO_FUNC_I2C);
     gpio_pull_up(26);
     gpio_pull_up(27);
-
-    // Init I2c 1
-    i2c_init(i2c1, 400000);
-    gpio_set_function(31, GPIO_FUNC_I2C);
-    gpio_set_function(32, GPIO_FUNC_I2C);
-    gpio_pull_up(31);
-    gpio_pull_up(32);
 
     // Channel 0 output
     gpio_init(14);
