@@ -1383,7 +1383,7 @@
   (gr_text "tauseefafraz.com" (at 156.21 108.585) (layer "B.SilkS") (tstamp 8e4efc59-60ef-4d3d-a58a-2fc4ccb6d61b)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "Tauseef Afraz\nJanuary 2023" (at 156.21 81.915) (layer "F.SilkS") (tstamp 0d805ea7-6bc7-4068-bbd4-cd1b9c240133)
+  (gr_text "Tauseef Afraz\nDecember 2022" (at 156.21 81.915) (layer "F.SilkS") (tstamp 0d805ea7-6bc7-4068-bbd4-cd1b9c240133)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "SCL SDA 3.3V GND" (at 178.18 81.915 90) (layer "F.SilkS") (tstamp 57adec7f-7035-4673-bbd3-e50f0bff88a2)
