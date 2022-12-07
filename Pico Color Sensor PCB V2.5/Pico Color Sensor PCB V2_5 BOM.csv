@@ -1,4 +1,4 @@
-Component Count:,11,,,,,,,
+Component Count:,12,,,,,,,
 Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,Price,Total
 "Pico1, ",1,Pico,Pico,MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH,Raspberry Pi Pico,https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico,$4.00 ,$4.00 
 "DuPont_I2C_1, DuPont_I2C_2, ",2,Conn_01x04_Male,Conn_01x04_Male,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal,"Generic connector, single row, 01x04",https://www.digikey.com/en/products/detail/adam-tech/PH1RA-04-UA/9830430,$0.19 ,$0.38 
