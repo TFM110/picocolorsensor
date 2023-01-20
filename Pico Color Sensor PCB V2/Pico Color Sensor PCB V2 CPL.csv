@@ -1,0 +1,12 @@
+Designator,Val,Val,Mid X,Mid Y,Rotation,Layer
+MXP1,Conn_02x17_Odd_Even,Conn_02x17_Odd_Even,-176.51,-139.045,90,bottom
+D1,D,D,149.86,-106.045,0,top
+DuPont_I2C_1,Conn_01x04_Male,Conn_01x04_Male,168.345,-91.94,0,top
+DuPont_I2C_2,Conn_01x04_Male,Conn_01x04_Male,144.075,-99.54,180,top
+JST_I2C_1,Conn_01x04_Male,Conn_01x04_Male,170.27,-84.915,90,top
+JST_I2C_2,Conn_01x04_Male,Conn_01x04_Male,142.15,-78.915,-90,top
+Pico1,Pico,Pico,156.21,-122.555,90,top
+R1,R,R,148.59,-100.965,90,top
+R2,R,R,153.67,-100.965,90,top
+R3,R,R,158.75,-100.965,90,top
+R4,R,R,163.83,-100.965,90,top

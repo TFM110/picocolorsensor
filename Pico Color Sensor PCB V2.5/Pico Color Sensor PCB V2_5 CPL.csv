@@ -1,0 +1,13 @@
+Designator,Val,Val,Mid X,Mid Y,Rotation,Layer
+MXP1,Conn_02x17_Odd_Even,PinSocket_2x17_P2.54mm_Vertical,-176.51,-139.045,90,bottom
+D1,D,D_DO-15_P12.70mm_Horizontal,149.86,-106.045,0,top
+DuPont_I2C_1,Conn_01x04_Male,PinHeader_1x04_P2.54mm_Horizontal,168.345,-91.94,0,top
+DuPont_I2C_2,Conn_01x04_Male,PinHeader_1x04_P2.54mm_Horizontal,144.075,-99.54,180,top
+JST_I2C_1,Conn_01x04_Male,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,170.27,-84.915,90,top
+JST_I2C_2,Conn_01x04_Male,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,142.15,-78.915,-90,top
+MXP2,Conn_02x17_Odd_Even,PinHeader_2x17_P2.54mm_Vertical,176.53,-146.05,-90,top
+Pico1,Pico,RPi_Pico_SMD_TH,156.21,-122.555,90,top
+R1,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,148.59,-100.965,90,top
+R2,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,153.67,-100.965,90,top
+R3,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,158.75,-100.965,90,top
+R4,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,163.83,-100.965,90,top
